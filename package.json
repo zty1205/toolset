@@ -1,0 +1,22 @@
+{
+  "name": "toolset",
+  "version": "1.0.0",
+  "description": " some tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zty1205/toolset.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "zty1205",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zty1205/toolset/issues"
+  },
+  "homepage": "https://github.com/zty1205/toolset#readme"
+}
